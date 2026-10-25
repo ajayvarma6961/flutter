@@ -6,13 +6,13 @@
 [![Platforms](https://img.shields.io/badge/Platforms-Android%20%7C%20iOS%20%7C%20Web%20%7C%20macOS%20%7C%20Linux%20%7C%20Windows-brightgreen)](#platforms-supported)
 [![UN SDGs](https://img.shields.io/badge/SDG%20Impact-SDG%203%2C%204%2C%2010%2C%2011%2C%2013-4C9F38)](https://sdgs.un.org/goals)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://flutter-3hgd.onrender.com)
 ---
 
 ## 📖 Overview
 
 **Goodwork** is an open, mission-driven job discovery platform designed to solve one of the greatest career dilemmas of our time: *how to connect skilled talent with organizations advancing human and planetary flourishing*.
-
+👉 **[View Live Application](https://flutter-3hgd.onrender.com)**
 Built from the ground up with **Flutter 3** and modern **Material 3**, Goodwork delivers an adaptive, accessible, and aesthetically pleasing cross-platform experience across mobile, tablet, and desktop viewports. Every role listed is directly mapped to the **United Nations Sustainable Development Goals (SDGs)**, spotlighting verifiable impact in climate action, healthcare equity, universal education, digital accessibility, and grassroots community empowerment.
 
 ---
